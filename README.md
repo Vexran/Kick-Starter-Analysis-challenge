@@ -12,9 +12,10 @@
 
 The graph shows a massive spike between March and May.  From the end of May, you notice a slow decline until December.
 
-### From the look of this Line Graph, I concluded on the Outcomes based on Goals that there is a corresponding similarity between the number of successful and failed campaigns. I also found no data on the canceled movements, so I can not provide any information. Also, the failed and canceled campaigns meet on the same line rough around 30% through 40%.
+### From the look of this Line Graph, I concluded on the Outcomes based on Goals that there is a corresponding similarity between the number of successful and failed campaigns. I also found no data on the canceled movements, so I can not provide any information. Also, the failed and canceled campaigns meet on the same line rough around 40% through 60%.
 
-![outcomes based on launch date](https://user-images.githubusercontent.com/113754027/195494129-fd415ea8-5374-40e9-97ec-d688bcab672c.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/113754027/195495573-f7adf7c9-6960-4f99-951b-158933d37835.png)
+
 
 ### The restrictions of this dataset were quite a hassle; it does not provide you any information about the people who did these campaigns.  All through, the dataset includes great information presenting real-life experiences.  Which can help Louise with her own projects in the future.
 
